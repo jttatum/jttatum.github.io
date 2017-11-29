@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
+![JT](https://github.com/jttatum/jttatum.github.io/blob/master/JT.PNG?raw=true "Optional Title")
 
-https://github.com/jttatum/jttatum.github.io/blob/master/JT.PNG
 
 ***
